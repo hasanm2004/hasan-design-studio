@@ -121,25 +121,39 @@ button {
 
 /* ================= LOGO IMAGE ================= */
 
-/* ================= LOGO ================= */
 
-/* ================= LOGO IMAGE ================= */
+/* ================= LOGO + BRAND NAME ================= */
 
 .logo {
     display: flex;
     align-items: center;
+    gap: 10px;
 
-    width: 180px;
+    width: 240px;
+
+    text-decoration: none;
 }
+
+/* Logo Image */
 
 .logo img {
-    width: 100%;
-    height: auto;
-
-    max-height: 120px;
+    width: 50px;
+    height: 50px;
 
     object-fit: contain;
+    display: block;
 }
+
+/* Brand Name */
+
+.logo span {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1px;
+
+    white-space: nowrap;
+}
+
 
 
 /* Navigation */
