@@ -21,8 +21,11 @@ Official website:
 
 We offer monthly design packages for businesses and brands, including:
 Starter
+
 Business
+
 Premium
+
 
 ## Price List:
 
