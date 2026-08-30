@@ -24,17 +24,19 @@ Starter
 Business
 Premium
 
-## Price List
+## Price List:
 
 Individual design services are also available with separate pricing.
 
-## Contact
+## Contact:
 
 Instagram:@hasandesignstudio
+
 WhatsApp:+92 337 8393412
+
 Email: [studiohasandesign@gmail.com]
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 
 * HTML5
 * CSS3
@@ -42,7 +44,7 @@ Email: [studiohasandesign@gmail.com]
 * Formspree
 * Responsive Web Design
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 hasan-design-studio/
 │
@@ -59,7 +61,7 @@ hasan-design-studio/
 └── sitemap.xml
 
 
-## 📱 Features
+## 📱 Features:
 
 * Responsive design for desktop, tablet, and mobile
 * Modern creative studio layout
